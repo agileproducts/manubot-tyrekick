@@ -108,7 +108,8 @@ if [ "${BUILD_RTF,,}" = "true" ]; then
   pandoc \
     --data-dir="$PANDOC_DATA_DIR" \
     --defaults=common.yaml \
-    --defaults=rtf.yaml
+    --defaults=rtf.yaml \
+    --standalone
 fi
 
 # Spellcheck
