@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/agileproducts/manubot-tyrekick/tree/gh-pages) branch hosts the contents of this directory at <https://agileproducts.github.io/manubot-tyrekick/>.
-The permalink for this webpage version is <https://agileproducts.github.io/manubot-tyrekick/v/0b426ebdaa751d5baff32f43f53f9d12ad0ac26b/>.
+The permalink for this webpage version is <https://agileproducts.github.io/manubot-tyrekick/v/c28671d9da0f99fe172c651cc6a7f7ce5b66239f/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://agileproducts.github.io/manubot-tyrekick/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`0b426ebdaa751d5baff32f43f53f9d12ad0ac26b`](https://github.com/agileproducts/manubot-tyrekick/commit/0b426ebdaa751d5baff32f43f53f9d12ad0ac26b).
+[`c28671d9da0f99fe172c651cc6a7f7ce5b66239f`](https://github.com/agileproducts/manubot-tyrekick/commit/c28671d9da0f99fe172c651cc6a7f7ce5b66239f).
