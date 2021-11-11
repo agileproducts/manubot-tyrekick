@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://agileproducts.github.io/manubot-tyrekick/" />
   <meta name="citation_pdf_url" content="https://agileproducts.github.io/manubot-tyrekick/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://agileproducts.github.io/manubot-tyrekick/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://agileproducts.github.io/manubot-tyrekick/v/d7d31a44de71417c58913642a6f6942f609bd563/" />
-  <meta name="manubot_html_url_versioned" content="https://agileproducts.github.io/manubot-tyrekick/v/d7d31a44de71417c58913642a6f6942f609bd563/" />
-  <meta name="manubot_pdf_url_versioned" content="https://agileproducts.github.io/manubot-tyrekick/v/d7d31a44de71417c58913642a6f6942f609bd563/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://agileproducts.github.io/manubot-tyrekick/v/b0795ba502cf044c6458df9eba00805392741ba0/" />
+  <meta name="manubot_html_url_versioned" content="https://agileproducts.github.io/manubot-tyrekick/v/b0795ba502cf044c6458df9eba00805392741ba0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://agileproducts.github.io/manubot-tyrekick/v/b0795ba502cf044c6458df9eba00805392741ba0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://agileproducts.github.io/manubot-tyrekick/v/d7d31a44de71417c58913642a6f6942f609bd563/))
+([permalink](https://agileproducts.github.io/manubot-tyrekick/v/b0795ba502cf044c6458df9eba00805392741ba0/))
 was automatically generated
-from [agileproducts/manubot-tyrekick@d7d31a4](https://github.com/agileproducts/manubot-tyrekick/tree/d7d31a44de71417c58913642a6f6942f609bd563)
+from [agileproducts/manubot-tyrekick@b0795ba](https://github.com/agileproducts/manubot-tyrekick/tree/b0795ba502cf044c6458df9eba00805392741ba0)
 on November 11, 2021.
 </em></small>
 
