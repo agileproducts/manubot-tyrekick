@@ -1,13 +1,13 @@
 ---
-title: Manuscript Title
+title: Evidence for scholarly publishing emerging from the 1990s
 keywords:
 - markdown
 - publishing
 - manubot
-lang: en-US
+lang: en-gb
 date-meta: '2021-11-11'
 author-meta:
-- John Doe
+- Stephen Cornelius
 - Jane Roe
 header-includes: |-
   <!--
@@ -15,22 +15,22 @@ header-includes: |-
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="Evidence for scholarly publishing emerging from the 1990s" />
+  <meta name="citation_title" content="Evidence for scholarly publishing emerging from the 1990s" />
+  <meta property="og:title" content="Evidence for scholarly publishing emerging from the 1990s" />
+  <meta property="twitter:title" content="Evidence for scholarly publishing emerging from the 1990s" />
   <meta name="dc.date" content="2021-11-11" />
   <meta name="citation_publication_date" content="2021-11-11" />
-  <meta name="dc.language" content="en-US" />
-  <meta name="citation_language" content="en-US" />
+  <meta name="dc.language" content="en-gb" />
+  <meta name="citation_language" content="en-gb" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Stephen Cornelius" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
+  <meta name="twitter:creator" content="@None" />
   <meta name="citation_author" content="Jane Roe" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://agileproducts.github.io/manubot-tyrekick/" />
   <meta name="citation_pdf_url" content="https://agileproducts.github.io/manubot-tyrekick/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://agileproducts.github.io/manubot-tyrekick/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://agileproducts.github.io/manubot-tyrekick/v/0b426ebdaa751d5baff32f43f53f9d12ad0ac26b/" />
-  <meta name="manubot_html_url_versioned" content="https://agileproducts.github.io/manubot-tyrekick/v/0b426ebdaa751d5baff32f43f53f9d12ad0ac26b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://agileproducts.github.io/manubot-tyrekick/v/0b426ebdaa751d5baff32f43f53f9d12ad0ac26b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://agileproducts.github.io/manubot-tyrekick/v/c28671d9da0f99fe172c651cc6a7f7ce5b66239f/" />
+  <meta name="manubot_html_url_versioned" content="https://agileproducts.github.io/manubot-tyrekick/v/c28671d9da0f99fe172c651cc6a7f7ce5b66239f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://agileproducts.github.io/manubot-tyrekick/v/c28671d9da0f99fe172c651cc6a7f7ce5b66239f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://agileproducts.github.io/manubot-tyrekick/v/0b426ebdaa751d5baff32f43f53f9d12ad0ac26b/))
+([permalink](https://agileproducts.github.io/manubot-tyrekick/v/c28671d9da0f99fe172c651cc6a7f7ce5b66239f/))
 was automatically generated
-from [agileproducts/manubot-tyrekick@0b426eb](https://github.com/agileproducts/manubot-tyrekick/tree/0b426ebdaa751d5baff32f43f53f9d12ad0ac26b)
+from [agileproducts/manubot-tyrekick@c28671d](https://github.com/agileproducts/manubot-tyrekick/tree/c28671d9da0f99fe172c651cc6a7f7ce5b66239f)
 on November 11, 2021.
 </em></small>
 
@@ -75,13 +75,11 @@ on November 11, 2021.
 
 
 
-+ **John Doe**<br>
++ **Stephen Cornelius**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [agileproducts](https://github.com/agileproducts)<br>
   <small>
      Department of Something, University of Whatever
      · Funded by Grant XXXXXXXX
