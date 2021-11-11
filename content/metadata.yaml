@@ -1,17 +1,17 @@
 ---
-title: "Manuscript Title"
+title: "Evidence for scholarly publishing emerging from the 1990s"
 keywords:
   - markdown
   - publishing
   - manubot
-lang: en-US
+lang: en-gb
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
+  - github: agileproducts
+    name: Stephen Cornelius
+    initials: SMC
     orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    twitter: 
+    email: 
     affiliations:
       - Department of Something, University of Whatever
     funders:
