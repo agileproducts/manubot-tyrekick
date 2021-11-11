@@ -16,6 +16,7 @@ CI="${CI:-false}"
 BUILD_PDF="${BUILD_PDF:-true}"
 BUILD_DOCX="${BUILD_DOCX:-true}"
 BUILD_LATEX="${BUILD_LATEX:-false}"
+BUILD_RTF="${BUILD_RTF:-true}"
 SPELLCHECK="${SPELLCHECK:-false}"
 # Pandoc's configuration is specified via files of option defaults
 # located in the $PANDOC_DATA_DIR/defaults directory.
@@ -99,6 +100,15 @@ if [ "${BUILD_LATEX,,}" = "true" ]; then
     --data-dir="$PANDOC_DATA_DIR" \
     --defaults=common.yaml \
     --defaults=latex.yaml
+fi
+
+# Create rtf output (if BUILD_RTF environment variable equals "true")
+if [ "${BUILD_LATEX,,}" = "true" ]; then
+  echo >&2 "Exporting rtf manuscript"
+  pandoc \
+    --data-dir="$PANDOC_DATA_DIR" \
+    --defaults=common.yaml \
+    --defaults=rtf.yaml
 fi
 
 # Spellcheck

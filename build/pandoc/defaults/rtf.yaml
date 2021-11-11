@@ -1,0 +1,4 @@
+# Pandoc --defaults for rtf output.
+# Load on top of common defaults.
+to: rtf
+output-file: output/manuscript.rtf
