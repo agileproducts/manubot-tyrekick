@@ -8,7 +8,7 @@ aute
 centered
 cillum
 Color
-colors
+Colors
 commodo
 consectetur
 consequat
