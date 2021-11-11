@@ -103,7 +103,7 @@ if [ "${BUILD_LATEX,,}" = "true" ]; then
 fi
 
 # Create rtf output (if BUILD_RTF environment variable equals "true")
-if [ "${BUILD_LATEX,,}" = "true" ]; then
+if [ "${BUILD_RTF,,}" = "true" ]; then
   echo >&2 "Exporting rtf manuscript"
   pandoc \
     --data-dir="$PANDOC_DATA_DIR" \
